@@ -1,0 +1,8 @@
+[2024-09-18 18:32:57] +905074510000 için takip sırasında bir hata oluştu: 'TelegramClient' object has no attribute 'check_phone_status'
+[2024-09-18 18:35:53] +905074510000 için takip sırasında bir hata oluştu: 'TelegramClient' object has no attribute 'get_client'
+[2024-09-18 18:36:43] +905074510000 için takip sırasında bir hata oluştu: 'TelegramClient' object has no attribute 'client'
+[2024-09-18 18:37:26] +905074510000 için takip sırasında bir hata oluştu: 'TelegramClient' object has no attribute 'get_client'
+[2024-09-18 18:39:23] +905074510000 için takip sırasında bir hata oluştu: 'TelegramClient' object has no attribute 'client'
+[2024-09-18 18:42:07] +905074510000 için takip sırasında bir hata oluştu: 'TelegramClient' object has no attribute 'get_client'
+[2024-09-18 18:42:22] +905074510000 için takip sırasında bir hata oluştu: 'TelegramClient' object has no attribute 'get_client'
+[2024-09-18 18:44:03] +905074510000 için takip sırasında bir hata oluştu: 'TelegramClient' object has no attribute 'client'
